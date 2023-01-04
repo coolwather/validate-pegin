@@ -1,6 +1,7 @@
 # Project to test PegIn with a Smart Contract
 
 Installing packages
+
     npm install
 
 ## Deploying the contract
