@@ -18,7 +18,7 @@ Then run the script to check the contract balance.
     npm run test-pegin
 
 ## Doing the pegin
-You need to do the pegin change the input parameters in the pegin request.
+To do the pegin you need to change the input parameters in the pegin request.
 - **callContractAddress** and **rskRefundAddress** with the address of the deployed contract.
 
 After you deposite the bitcoin in the **bitcoinDepositAddressHash** received in the accept quote you can now check the balance again.
